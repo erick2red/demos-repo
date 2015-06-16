@@ -1,0 +1,2 @@
+This is the third file, containing a new change.
+We're here testing how to update a shallow cloned repo.
