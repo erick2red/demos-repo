@@ -1,0 +1,3 @@
+This is another change.
+
+It would count as the third commit.
